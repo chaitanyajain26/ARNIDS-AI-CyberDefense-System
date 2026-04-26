@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# Logs
+logs/
+
+# Reports
+reports/
+
+# Datasets
+data/raw/
+data/processed/
+
+# Models
+models/*.pkl
+
+# PCAP files
+*.pcap
+*.pcapng
+
+# Temp files
+temp.pcap
+
+# OS files
+.DS_Store
+Thumbs.db
